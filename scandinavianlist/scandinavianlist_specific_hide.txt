@@ -1,2 +1,3 @@
 gp.se##.news-package.container.ml-adon-hide-box
 expressen.se##.discount-ad
+dn.se##.sponsored-teaser
