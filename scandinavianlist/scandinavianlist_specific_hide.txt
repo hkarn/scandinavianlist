@@ -1,0 +1,3 @@
+gp.se##.ml-adon-hide-box
+expressen.se##.discount-ad
+dn.se##.sponsored-teaser
