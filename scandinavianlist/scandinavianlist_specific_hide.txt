@@ -1,3 +1,6 @@
 gp.se##.ml-adon-hide-box
 expressen.se##.discount-ad
+expressen.se##.html-widget
+expressen.se#?#.teaser:-abp-has(> .vignette--image > canvas[width="640"])
 dn.se##.sponsored-teaser
+expressen.se#?#.teaser:-abp-has(> .vignette--text:-abp-contains(NOA Gallery))
