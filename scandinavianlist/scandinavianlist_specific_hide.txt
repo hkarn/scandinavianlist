@@ -1,5 +1,8 @@
 gp.se##.ml-adon-hide-box
 expressen.se##.discount-ad
+dn.se##.sponsored-teaser
+hitta.se##a[class*="Box__PartnerBox-"]
+hitta.se##div[trackcat="integration-mysafety"]
 expressen.se##.html-widget
 expressen.se#?#.teaser:-abp-has(> .vignette--image > canvas[width="640"])
 dn.se##.sponsored-teaser
