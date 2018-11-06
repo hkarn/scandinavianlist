@@ -7,3 +7,5 @@ expressen.se##.html-widget
 expressen.se#?#.teaser:-abp-has(> .vignette--image > canvas[width="640"])
 dn.se##.sponsored-teaser
 expressen.se#?#.teaser:-abp-has(> .vignette--text:-abp-contains(NOA Gallery))
+di.se#?#.di_section-heading:-abp-contains(Plånbokskoll)
+di.se##.di_panorama__isAdLabel
