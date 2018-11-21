@@ -11,3 +11,4 @@ di.se#?#.di_section-heading:-abp-contains(Plånbokskoll)
 di.se##.di_panorama__isAdLabel
 allabolag.se#?#li,article:-abp-has(.advert__mark)
 merinfo.se##.articles-header
+bab.la##.info-wrapper
