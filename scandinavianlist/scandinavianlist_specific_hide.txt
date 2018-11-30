@@ -13,3 +13,5 @@ di.se##.di_panorama__isAdLabel
 allabolag.se#?#li,article:-abp-has(.advert__mark)
 merinfo.se##.articles-header
 bab.la##.info-wrapper
+familjeliv.se##.adtoma_container
+familjeliv.se##.ad_right
