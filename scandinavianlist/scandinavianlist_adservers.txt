@@ -1,2 +1,2 @@
 ||uptobranding.com^$third-party
-||adten.eu/videos^$media,third-party
+||delivery.adten.eu^$xmlhttprequest,third-party
