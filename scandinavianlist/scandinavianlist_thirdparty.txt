@@ -1,3 +1,5 @@
 ||happygreen.se/media/iframe/$subdocument,third-party
 ||insplanet.com/di$subdocument,third-party
 ||fakturino.se/campaigns/$subdocument,third-party
+||widgets.sprinklecontent.com/v2/$script,third-party
+||delivery.adten.eu/srv/$script,third-party
