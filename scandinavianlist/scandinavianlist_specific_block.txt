@@ -2,4 +2,4 @@
 ||c.cdn-expressen.se/images/c9/f6/c9f6deb7fd7846529c4af3edd68f94d2/640@60.jpg
 ||nyafilmer.com/wp-content/themes/keremiya1/js/script.js^
 ||c.suntcontent.se/assets/js/loader.js^
-||hd.se/native?masterId=null&placeholder-0=native%7Cteaser%7Cdda1d1d5-25b0-56fd-b27d-f0e9d0f3b1cb&placeholder-1=job%7Cteaser%7Cdda1d1d5-25b0-56fd-b27d-f0e9d0f3b1cb&placeholder-2=lunchguiden%7Clist%7Cdda1d1d5-25b0-56fd-b27d-f0e9d0f3b1cb&placeholder-3=job%7Clist%7Cdda1d1d5-25b0-56fd-b27d-f0e9d0f3b1cb&placeholder-4=native%7Cteaser%7C787720b0-e1a1-4037-94f5-b381019d2255
+||hd.se/native?
