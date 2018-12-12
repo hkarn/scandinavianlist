@@ -3,3 +3,7 @@
 ||fakturino.se/campaigns/$subdocument,third-party
 ||widgets.sprinklecontent.com^$script,third-party
 ||delivery.adten.eu/srv/$script,third-party
+||widgets.boka.holiday^$subdocument,third-party
+||img9.ntm.eu/unt/public/img/5118608/1026143628/1055-anonsbalk-jpg$image,third-party,domain=unt.se
+||biowebb-data.s3.amazonaws.com/pages/unt/BIO_unt.html$xmlhttprequest,third-party,domain=unt.se
+||destination.se/$script,third-party,domain=unt.se
