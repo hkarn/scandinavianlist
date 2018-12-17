@@ -24,3 +24,5 @@ unt.se###ctl37_ctl02_vCharter
 unt.se##.blurb-list-big
 nyteknik.se##.ad-teaser
 nyteknik.se##.ad-teaser-flash
+darkside.se##[id^=v5footerad]
+darkside.se##[id^=z][class=zz]
