@@ -16,6 +16,7 @@ familjeliv.se##.adtoma_container
 familjeliv.se##.ad_right
 metro.se#?#.c-teaser:-abp-has(> .m-teaser__body > .o-label--ad)
 metro.se##.o-preview--ad
+moviezine.se###casinofeber
 norran.se##.article__ad--panorama
 unt.se###lystra_1001014
 unt.se#?#.col12:-abp-has(> #widget-destination)
@@ -24,5 +25,8 @@ unt.se###ctl37_ctl02_vCharter
 unt.se##.blurb-list-big
 nyteknik.se##.ad-teaser
 nyteknik.se##.ad-teaser-flash
+vk.se##div[style="max-height: 100%; max-width: 100%; clear: both;"]
+darkside.se##div[id^=v5footerad]
+darkside.se##div[id^=z][class=zz]
 shl.se##.rmss_module-advertisement
 fragbite.se##.advertisement
