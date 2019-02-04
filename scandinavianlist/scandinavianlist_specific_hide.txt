@@ -27,4 +27,4 @@ nyteknik.se##.ad-teaser
 nyteknik.se##.ad-teaser-flash
 shl.se##.rmss_module-advertisement
 fragbite.se##.advertisement
-alltforforaldrar.se##.panorama.hidden-xs
+alltforforaldrar.se##.panorama
