@@ -7,7 +7,6 @@ expressen.se##.html-widget
 expressen.se#?#.teaser:-abp-has(> .vignette--image > canvas[width="640"])
 expressen.se#?#.teaser:-abp-has(>.native-ad-banner)
 expressen.se#?#.teaser:-abp-has(>.vignette--text:-abp-contains(Presenteras av ))
-dn.se##.sponsored-teaser
 di.se#?#.di_section-heading:-abp-contains(Plånbokskoll)
 di.se##.di_panorama__isAdLabel
 allabolag.se#?#li,article:-abp-has(.advert__mark)
