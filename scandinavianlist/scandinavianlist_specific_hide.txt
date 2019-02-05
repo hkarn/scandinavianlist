@@ -32,3 +32,4 @@ shl.se##.rmss_module-advertisement
 fragbite.se##.advertisement
 breakit.se##.sponsored
 breakit.se##.video-container
+alltforforaldrar.se##.panorama
