@@ -30,4 +30,6 @@ darkside.se##div[id^=v5footerad]
 darkside.se##div[id^=z][class=zz]
 shl.se##.rmss_module-advertisement
 fragbite.se##.advertisement
+breakit.se##.sponsored
+breakit.se##.video-container
 alltforforaldrar.se##.panorama
