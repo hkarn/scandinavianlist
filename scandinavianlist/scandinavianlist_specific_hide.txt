@@ -33,3 +33,4 @@ fragbite.se##.advertisement
 breakit.se##.sponsored
 breakit.se##.video-container
 alltforforaldrar.se##.panorama
+qruiser.com##.external-ad

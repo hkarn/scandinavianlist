@@ -8,3 +8,4 @@
 ||biowebb-data.s3.amazonaws.com/pages/unt/BIO_unt.html$xmlhttprequest,third-party,domain=unt.se
 ||destination.se^$script,third-party,domain=unt.se
 ||breakit.solidtango.com^$subdocument,third-party
+||qx.se^$image,third-party,domain=qruiser.com
