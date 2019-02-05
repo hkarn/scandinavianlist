@@ -35,3 +35,6 @@ garaget.org###ia_biluppgifter
 garaget.org#?#h4,p:-abp-contains(Sponsra)
 garaget.org##a[href^="https://www.casinofeber.se"]
 garaget.org##a[href^="https://www.blocket.se"]
+breakit.se##.sponsored
+breakit.se##.video-container
+alltforforaldrar.se##.panorama
