@@ -33,6 +33,8 @@ fragbite.se##.advertisement
 breakit.se##.sponsored
 breakit.se##.video-container
 alltforforaldrar.se##.panorama
+cafe.se##div.oath-dac-placement
+cafe.se##a.card-partner
 fotosidan.se##a[href^="https://ads.fotosidan"]
 fotosidan.se##.ads
 fotosidan.se##.adbox
