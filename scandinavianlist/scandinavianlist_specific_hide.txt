@@ -34,4 +34,4 @@ breakit.se##.sponsored
 breakit.se##.video-container
 alltforforaldrar.se##.panorama
 qruiser.com##.external-ad
-qruiser.com##..blog-teasers
+qruiser.com##.blog-teasers
