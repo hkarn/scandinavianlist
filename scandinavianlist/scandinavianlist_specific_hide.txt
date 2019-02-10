@@ -40,3 +40,4 @@ cafe.se##a.card-partner
 fotosidan.se##a[href^="https://ads.fotosidan"]
 fotosidan.se##.ads
 fotosidan.se##.adbox
+vibilagare.se##.banner
