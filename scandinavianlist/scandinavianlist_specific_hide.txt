@@ -46,3 +46,5 @@ fotosidan.se##a[href^="https://ads.fotosidan"]
 fotosidan.se##.ads
 fotosidan.se##.adbox
 vibilagare.se##.banner
+va.se##article.sponsored-article
+va.se##article.sponsored-module
