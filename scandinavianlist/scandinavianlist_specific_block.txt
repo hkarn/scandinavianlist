@@ -5,3 +5,4 @@
 ||annonsportalen.norran.se/ad^$subdocument
 ||hd.se/native?
 ||garaget.org/images/ia/blocket_logo.png$image
+||cdn.pji.nu/widgets/widget-min.js^$script
