@@ -4,4 +4,5 @@
 ||c.suntcontent.se/assets/js/loader.js^
 ||annonsportalen.norran.se/ad^$subdocument
 ||hd.se/native?
+||d.suntcontent.se/cds/delivery/init^$script
 ||garaget.org/images/ia/blocket_logo.png$image
