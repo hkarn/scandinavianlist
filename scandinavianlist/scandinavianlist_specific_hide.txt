@@ -52,3 +52,4 @@ mobil.se##a[href^="http://www.prisjakt.nu"]
 happyride.se##.boxlogo
 happyride.se##.boxtext
 happyride.se###a-panorama
+happyride.se#?#a:-abp-has(> img[src^="/img/sponsor/"])
