@@ -49,3 +49,6 @@ vibilagare.se##.banner
 mobil.se##.aside-puff
 mobil.se##li.Partner
 mobil.se##a[href^="http://www.prisjakt.nu"]
+happyride.se##.boxlogo
+happyride.se##.boxtext
+happyride.se###a-panorama
