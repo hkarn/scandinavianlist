@@ -9,3 +9,4 @@
 ||cdn.pji.nu/widgets/widget-min.js^$script
 ||internetmedicin.se/imgCont/banner^$image
 ||internetmedicin.se/banner^$subdocument
+||cdn.pji.nu/g/misc/partners/blocketjobb.gif^
