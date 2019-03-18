@@ -10,3 +10,5 @@
 ||happyride.se/img/sponsor^$image
 ||internetmedicin.se/imgCont/banner^$image
 ||internetmedicin.se/banner^$subdocument
+||ekuriren.se/wp-content/plugins/sm/plugins/sm-external-data/assets/?file=lokusmotor_ek^$subdocument
+||ekuriren.se/wp-content/plugins/sm/plugins/sm-external-data/assets/?file=bostadsnurra^$subdocument

@@ -63,3 +63,6 @@ aftenposten.no###top-ads-container
 aftenposten.no##.ad
 aftenposten.no##.standard-ad-container
 dagbladet.no##.native-advertisement
+ekuriren.se###bostad
+ekuriren.se###lokusmotor
+ekuriren.se##iframe[id^=lystra]
