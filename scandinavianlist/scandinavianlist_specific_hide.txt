@@ -59,3 +59,4 @@ internetmedicin.se##[class^="adStartPage"]
 internetmedicin.se##.LeftAdFrame 
 icd.internetmedicin.se##[id^="dMF_"][class^=fs]
 icd.internetmedicin.se#?#td > div:-abp-contains(Annons)
+dagbladet.no##.native-advertisement
