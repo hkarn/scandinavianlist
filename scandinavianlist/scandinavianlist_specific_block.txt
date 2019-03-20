@@ -7,6 +7,7 @@
 ||d.suntcontent.se/cds/delivery/init^$script
 ||garaget.org/images/ia/blocket_logo.png$image
 ||cdn.pji.nu/widgets/widget-min.js^$script
+||happyride.se/img/sponsor^$image
 ||internetmedicin.se/imgCont/banner^$image
 ||internetmedicin.se/banner^$subdocument
 ||cdn.pji.nu/g/misc/partners/blocketjobb.gif^$domain=minhembio.com
