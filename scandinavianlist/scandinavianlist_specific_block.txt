@@ -10,3 +10,4 @@
 ||happyride.se/img/sponsor^$image
 ||internetmedicin.se/imgCont/banner^$image
 ||internetmedicin.se/banner^$subdocument
+||cdn.pji.nu/g/misc/partners/blocketjobb.gif^$domain=minhembio.com
