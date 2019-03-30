@@ -51,9 +51,19 @@ va.se##.sponsored-module
 mobil.se##.aside-puff
 mobil.se##li.Partner
 mobil.se##a[href^="http://www.prisjakt.nu"]
+happyride.se##.boxlogo
+happyride.se##.boxtext
+happyride.se###a-panorama
 internetmedicin.se###OutsiderArea
 internetmedicin.se##[class^="adStartPage"]
 internetmedicin.se##.LeftAdFrame 
 icd.internetmedicin.se##[id^="dMF_"][class^=fs]
 icd.internetmedicin.se#?#td > div:-abp-contains(Annons)
 flashscore.se##.sticky-wrapper
+minhembio.com##.adbox
+minhembio.com##.pj_block_header[style="background:#000000"] + .pj_block_inner
+minhembio.com##.pj_block_header[style="background:#000000"]
+aftenposten.no###top-ads-container
+aftenposten.no##.ad
+aftenposten.no##.standard-ad-container
+dagbladet.no##.native-advertisement
