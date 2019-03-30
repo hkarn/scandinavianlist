@@ -59,6 +59,9 @@ internetmedicin.se##[class^="adStartPage"]
 internetmedicin.se##.LeftAdFrame 
 icd.internetmedicin.se##[id^="dMF_"][class^=fs]
 icd.internetmedicin.se#?#td > div:-abp-contains(Annons)
+minhembio.com##.adbox
+minhembio.com##.pj_block_header[style="background:#000000"] + .pj_block_inner
+minhembio.com##.pj_block_header[style="background:#000000"]
 aftenposten.no###top-ads-container
 aftenposten.no##.ad
 aftenposten.no##.standard-ad-container
