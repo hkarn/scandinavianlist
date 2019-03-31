@@ -66,3 +66,4 @@ aftenposten.no###top-ads-container
 aftenposten.no##.ad
 aftenposten.no##.standard-ad-container
 dagbladet.no##.native-advertisement
+elevspel.se##.rek-unit
