@@ -63,7 +63,10 @@ minhembio.com##.adbox
 minhembio.com##.pj_block_header[style="background:#000000"] + .pj_block_inner
 minhembio.com##.pj_block_header[style="background:#000000"]
 aftenposten.no###top-ads-container
-aftenposten.no##.ad
+aftenposten.no,99.se##.ad
 aftenposten.no##.standard-ad-container
 dagbladet.no##.native-advertisement
 elevspel.se##.rek-unit
+ekuriren.se###bostad
+ekuriren.se###lokusmotor
+ekuriren.se##iframe[id^=lystra]
