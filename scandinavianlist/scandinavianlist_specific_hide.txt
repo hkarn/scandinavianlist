@@ -19,7 +19,7 @@ metro.se##.o-preview--ad
 moviezine.se###casinofeber
 norran.se##.article__ad--panorama
 unt.se,corren.se##iframe[id^=lystra_]
-unt.se,corren.se#?#.col12:-abp-has(> #widget-destination)
+unt.se,corren.se,nsd.se###destination + section
 unt.se##.banner-column
 unt.se###ctl37_ctl02_vCharter
 unt.se##.blurb-list-big
