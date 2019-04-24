@@ -9,3 +9,4 @@
 ||destination.se^$script,third-party,domain=unt.se|corren.se
 ||breakit.solidtango.com^$subdocument,third-party
 ||qx.se^$image,third-party,domain=qruiser.com
+||custosgroup.com^$subdocument,third-party
