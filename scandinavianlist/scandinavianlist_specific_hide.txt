@@ -18,8 +18,8 @@ metro.se#?#.c-teaser:-abp-has(> .m-teaser__body > .o-label--ad)
 metro.se##.o-preview--ad
 moviezine.se###casinofeber
 norran.se##.article__ad--panorama
-unt.se###lystra_1001014
-unt.se#?#.col12:-abp-has(> #widget-destination)
+unt.se,nsd.se,corren.se##iframe[id^=lystra_]
+unt.se,corren.se,nsd.se###destination + section
 unt.se##.banner-column
 unt.se###ctl37_ctl02_vCharter
 unt.se##.blurb-list-big
@@ -59,11 +59,16 @@ internetmedicin.se##[class^="adStartPage"]
 internetmedicin.se##.LeftAdFrame 
 icd.internetmedicin.se##[id^="dMF_"][class^=fs]
 icd.internetmedicin.se#?#td > div:-abp-contains(Annons)
+flashscore.se##.sticky-wrapper
 minhembio.com##.adbox
 minhembio.com##.pj_block_header[style="background:#000000"] + .pj_block_inner
 minhembio.com##.pj_block_header[style="background:#000000"]
 aftenposten.no###top-ads-container
-aftenposten.no##.ad
+aftenposten.no,99.se##.ad
 aftenposten.no##.standard-ad-container
 dagbladet.no##.native-advertisement
 spelo.se##div[id^="banner"]
+elevspel.se##.rek-unit
+ekuriren.se###bostad
+ekuriren.se###lokusmotor
+ekuriren.se##iframe[id^=lystra]
