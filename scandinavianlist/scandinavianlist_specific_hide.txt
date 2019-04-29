@@ -67,6 +67,7 @@ aftenposten.no###top-ads-container
 aftenposten.no,99.se##.ad
 aftenposten.no##.standard-ad-container
 dagbladet.no##.native-advertisement
+spelo.se##div[id^="banner"]
 elevspel.se##.rek-unit
 ekuriren.se###bostad
 ekuriren.se###lokusmotor
