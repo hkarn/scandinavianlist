@@ -72,3 +72,4 @@ elevspel.se##.rek-unit
 ekuriren.se###bostad
 ekuriren.se###lokusmotor
 ekuriren.se##iframe[id^=lystra]
+vetgirig.nu###ads
