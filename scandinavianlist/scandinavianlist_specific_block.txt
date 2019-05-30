@@ -13,3 +13,4 @@
 ||ekuriren.se/*/?file=lokusmotor_ek^$subdocument
 ||ekuriren.se/*/?file=bostadsnurra^$subdocument
 ||cdn.pji.nu/g/misc/partners/blocketjobb.gif^$domain=minhembio.com
+||freeride.se/img/sponsor/box_title.gif^
