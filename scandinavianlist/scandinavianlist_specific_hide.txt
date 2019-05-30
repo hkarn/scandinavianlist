@@ -18,7 +18,6 @@ metro.se#?#.c-teaser:-abp-has(> .m-teaser__body > .o-label--ad)
 metro.se##.o-preview--ad
 moviezine.se###casinofeber
 norran.se##.article__ad--panorama
-unt.se,corren.se,nsd.se,nt.se##iframe[id^=lystra_]
 unt.se,corren.se,nsd.se###destination + section
 nt.se###resor + section
 unt.se##.banner-column
