@@ -74,3 +74,4 @@ ekuriren.se###lokusmotor
 ekuriren.se##iframe[id^=lystra]
 vetgirig.nu###ads
 unt.se,corren.se,nsd.se,nt.se##iframe[id^=lystra_]
+hastnet.se##.add-wrap
