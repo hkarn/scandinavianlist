@@ -6,7 +6,7 @@
 ||widgets.boka.holiday^$subdocument,third-party
 ||img9.ntm.eu/unt/public/img/5118608/1026143628/1055-anonsbalk-jpg$image,third-party,domain=unt.se
 ||biowebb-data.s3.amazonaws.com/pages/unt/BIO_unt.html$xmlhttprequest,third-party,domain=unt.se|nsd.se|unt.se
-||destination.se^$script,third-party,domain=unt.se|nsd.se|corren.se|kuriren.nu|
+||destination.se^$script,third-party,domain=unt.se|nsd.se|corren.se|kuriren.nu
 ||breakit.solidtango.com^$subdocument,third-party
 ||qx.se^$image,third-party,domain=qruiser.com
 ||custosgroup.com^$subdocument,third-party
