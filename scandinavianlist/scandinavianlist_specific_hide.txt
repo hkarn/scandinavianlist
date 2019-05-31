@@ -19,7 +19,7 @@ metro.se##.o-preview--ad
 moviezine.se###casinofeber
 norran.se##.article__ad--panorama
 unt.se,nsd.se,corren.se##iframe[id^=lystra_]
-unt.se,corren.se,nsd.se###destination + section
+unt.se,corren.se,nsd.se,kuriren.nu###destination + section
 unt.se##.banner-column
 unt.se###ctl37_ctl02_vCharter
 unt.se##.blurb-list-big
@@ -74,3 +74,4 @@ ekuriren.se###lokusmotor
 ekuriren.se##iframe[id^=lystra]
 vetgirig.nu###ads
 hastnet.se##.add-wrap
+unt.se,corren.se,nsd.se,nt.se,kuriren.nu##iframe[id^=lystra_]
