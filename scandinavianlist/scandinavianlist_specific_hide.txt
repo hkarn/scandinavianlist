@@ -73,5 +73,7 @@ ekuriren.se###bostad
 ekuriren.se###lokusmotor
 ekuriren.se##iframe[id^=lystra]
 vetgirig.nu###ads
+dykarna.nu###rightbanners
 unt.se,corren.se,nsd.se,nt.se##iframe[id^=lystra_]
 hastnet.se##.add-wrap
+
