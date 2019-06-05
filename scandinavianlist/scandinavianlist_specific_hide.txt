@@ -73,6 +73,8 @@ ekuriren.se###bostad
 ekuriren.se###lokusmotor
 vetgirig.nu###ads
 hastnet.se##.add-wrap
+nt.se,pt.se###resor + section
+pt.se###banner-snurra-desktop + header
 kolozzeum.com##td[width="305"]
 unt.se,corren.se,nsd.se,nt.se,helagotland.se,ekuriren.se###sf + section
 dykarna.nu###rightbanners
