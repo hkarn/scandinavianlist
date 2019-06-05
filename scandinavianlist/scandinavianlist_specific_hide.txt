@@ -20,6 +20,7 @@ moviezine.se###casinofeber
 norran.se##.article__ad--panorama
 unt.se,nsd.se,corren.se##iframe[id^=lystra_]
 unt.se,corren.se,nsd.se,kuriren.nu###destination + section
+nt.se###resor + section
 unt.se##.banner-column
 unt.se###ctl37_ctl02_vCharter
 unt.se##.blurb-list-big
@@ -71,7 +72,12 @@ spelo.se##div[id^="banner"]
 elevspel.se##.rek-unit
 ekuriren.se###bostad
 ekuriren.se###lokusmotor
-ekuriren.se##iframe[id^=lystra]
 vetgirig.nu###ads
 hastnet.se##.add-wrap
 unt.se,corren.se,nsd.se,nt.se,kuriren.nu##iframe[id^=lystra_]
+nt.se,pt.se###resor + section
+pt.se###banner-snurra-desktop + header
+kolozzeum.com##td[width="305"]
+unt.se,corren.se,nsd.se,nt.se,helagotland.se,ekuriren.se###sf + section
+dykarna.nu###rightbanners
+
