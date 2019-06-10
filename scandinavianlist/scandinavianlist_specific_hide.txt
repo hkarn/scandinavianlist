@@ -71,7 +71,7 @@ spelo.se##div[id^="banner"]
 elevspel.se##.rek-unit
 ekuriren.se###bostad
 ekuriren.se###lokusmotor
-ekuriren.se##iframe[id^=lystra]
 vetgirig.nu###ads
 hastnet.se##.add-wrap
 freeride.se##.boxlogo
+unt.se,corren.se,nsd.se,nt.se,kuriren.nu,ekuriren.se##iframe[id^=lystra]
