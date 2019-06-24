@@ -11,3 +11,4 @@
 ||custosgroup.com^$subdocument,third-party
 ||cdn2.lystra.se/pages/*/BIO*$subdocument,third-party
 ||webbannons.ntm.eu^$subdocument,third-party
+||graphics.adrecord.com^$image,third-party
