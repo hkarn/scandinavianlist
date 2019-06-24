@@ -72,9 +72,10 @@ spelo.se##div[id^="banner"]
 elevspel.se##.rek-unit
 ekuriren.se###bostad
 ekuriren.se###lokusmotor
-vetgirig.nu###ads
+vetgirig.nu,slangopedia.se###ads
 hastnet.se##.add-wrap
-unt.se,corren.se,nsd.se,nt.se,kuriren.nu##iframe[id^=lystra_]
+freeride.se##.boxlogo
+unt.se,corren.se,nsd.se,nt.se,kuriren.nu,ekuriren.se##iframe[id^=lystra]
 nt.se,pt.se###resor + section
 pt.se###banner-snurra-desktop + header
 kolozzeum.com##td[width="305"]
@@ -82,3 +83,4 @@ unt.se,corren.se,nsd.se,nt.se,helagotland.se,ekuriren.se###sf + section
 dykarna.nu###rightbanners
 elektronikforumet.com##a[href$="donate.php"] ~ a
 elektronikforumet.com##td > a[href^="https://elektronikforumet.com/images/www/delivery/ck.php"]
+hamsterpaj.net###sidebar_wrapper > .zone
