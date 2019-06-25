@@ -81,6 +81,7 @@ pt.se###banner-snurra-desktop + header
 kolozzeum.com##td[width="305"]
 unt.se,corren.se,nsd.se,nt.se,helagotland.se,ekuriren.se###sf + section
 dykarna.nu###rightbanners
+rotter.se###Mod206
 24kalmar.se##.link-box
 folkbladet.nu##.vkmui-ContainerBase > .vkmui-FlexVerticalCentered
 elektronikforumet.com##a[href$="donate.php"] ~ a
