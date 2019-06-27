@@ -82,6 +82,11 @@ kolozzeum.com##td[width="305"]
 unt.se,corren.se,nsd.se,nt.se,helagotland.se,ekuriren.se###sf + section
 dykarna.nu###rightbanners
 missatsamtal.se##.nosnaj
+lokaltidningen.se##.annoncer-wrapper
+lokaltidningen.se##.casino
+rotter.se###Mod206
+24kalmar.se##.link-box
+folkbladet.nu##.vkmui-ContainerBase > .vkmui-FlexVerticalCentered
 elektronikforumet.com##a[href$="donate.php"] ~ a
 elektronikforumet.com##td > a[href^="https://elektronikforumet.com/images/www/delivery/ck.php"]
 hamsterpaj.net###sidebar_wrapper > .zone
