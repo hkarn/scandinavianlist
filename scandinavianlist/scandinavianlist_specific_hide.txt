@@ -89,3 +89,5 @@ folkbladet.nu##.vkmui-ContainerBase > .vkmui-FlexVerticalCentered
 elektronikforumet.com##a[href$="donate.php"] ~ a
 elektronikforumet.com##td > a[href^="https://elektronikforumet.com/images/www/delivery/ck.php"]
 hamsterpaj.net###sidebar_wrapper > .zone
+nvp.se###ctl00_ContentLeftCenterRight_ContentRightBanner_LeftColumn_ColumnList2_ctl14_PanelContainer
+nvp.se##.ads-column-4
