@@ -9,5 +9,5 @@
 ||breakit.solidtango.com^$subdocument,third-party
 ||qx.se^$image,third-party,domain=qruiser.com
 ||custosgroup.com^$subdocument,third-party
-||cdn2.lystra.se/pages/*/BIO*$subdocument,third-party
+||cdn2.lystra.se/pages/*/BIO*$subdocument,xmlhttprequest,third-party
 ||webbannons.ntm.eu^$subdocument,third-party

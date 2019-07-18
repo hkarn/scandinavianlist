@@ -94,3 +94,4 @@ folkbladet.nu##.vkmui-ContainerBase > .vkmui-FlexVerticalCentered
 elektronikforumet.com##a[href$="donate.php"] ~ a
 elektronikforumet.com##td > a[href^="https://elektronikforumet.com/images/www/delivery/ck.php"]
 hamsterpaj.net###sidebar_wrapper > .zone
+sn.se##[id^="lystra_"]
