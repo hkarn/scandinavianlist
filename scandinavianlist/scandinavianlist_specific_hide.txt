@@ -83,6 +83,7 @@ unt.se,corren.se,nsd.se,nt.se,helagotland.se,ekuriren.se###sf + section
 dykarna.nu###rightbanners
 vf.se##.ew-app-nexus-ad
 vf.se##.ad-bundling
+filmtipset.se#?#td:-abp-has(> div.rightlinkheader:-abp-contains(Rekommenderade sajter))
 lokaltidningen.se##.annoncer-wrapper
 lokaltidningen.se##.casino
 rotter.se###Mod206
