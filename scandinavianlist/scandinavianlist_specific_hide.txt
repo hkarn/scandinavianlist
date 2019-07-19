@@ -65,7 +65,7 @@ minhembio.com##.adbox
 minhembio.com##.pj_block_header[style="background:#000000"] + .pj_block_inner
 minhembio.com##.pj_block_header[style="background:#000000"]
 aftenposten.no###top-ads-container
-aftenposten.no,99.se##.ad
+aftenposten.no,99.se,24kristianstad.se##.ad
 aftenposten.no##.standard-ad-container
 dagbladet.no##.native-advertisement
 spelo.se##div[id^="banner"]
@@ -81,6 +81,11 @@ pt.se###banner-snurra-desktop + header
 kolozzeum.com##td[width="305"]
 unt.se,corren.se,nsd.se,nt.se,helagotland.se,ekuriren.se###sf + section
 dykarna.nu###rightbanners
+sexiganoveller.se###ad
+missatsamtal.se##.nosnaj
+vf.se##.ew-app-nexus-ad
+vf.se##.ad-bundling
+filmtipset.se#?#td:-abp-has(> div.rightlinkheader:-abp-contains(Rekommenderade sajter))
 lokaltidningen.se##.annoncer-wrapper
 lokaltidningen.se##.casino
 rotter.se###Mod206
@@ -91,3 +96,6 @@ elektronikforumet.com##td > a[href^="https://elektronikforumet.com/images/www/de
 hamsterpaj.net###sidebar_wrapper > .zone
 nvp.se##.banner_header
 nvp.se##.banner_header + *
+lantbruksnet.se###topreklam
+lantbruksnet.se###banner_right
+sn.se##[id^="lystra_"]
