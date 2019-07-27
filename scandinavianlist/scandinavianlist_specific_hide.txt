@@ -30,7 +30,7 @@ vk.se##div[style="max-height: 100%; max-width: 100%; clear: both;"]
 darkside.se##div[id^=v5footerad]
 darkside.se##div[id^=z][class=zz]
 shl.se##.rmss_module-advertisement
-fragbite.se##.advertisement
+sol.no,fragbite.se##.advertisement
 garaget.org###ia_compricer
 garaget.org###ia_biluppgifter
 garaget.org#?#h4,p:-abp-contains(Sponsra)
