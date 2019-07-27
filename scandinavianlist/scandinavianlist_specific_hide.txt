@@ -97,4 +97,4 @@ hamsterpaj.net###sidebar_wrapper > .zone
 lantbruksnet.se###topreklam
 lantbruksnet.se###banner_right
 sn.se##[id^="lystra_"]
-ba.no##.am-bazaar-ad
+ba.no,an.no##bazaar-ad
