@@ -94,7 +94,10 @@ folkbladet.nu##.vkmui-ContainerBase > .vkmui-FlexVerticalCentered
 elektronikforumet.com##a[href$="donate.php"] ~ a
 elektronikforumet.com##td > a[href^="https://elektronikforumet.com/images/www/delivery/ck.php"]
 hamsterpaj.net###sidebar_wrapper > .zone
+nvp.se##.banner_header
+nvp.se##.banner_header + *
 lantbruksnet.se###topreklam
 lantbruksnet.se###banner_right
 sn.se##[id^="lystra_"]
 adressa.no##.polarisMarketing
+at.no##div[class*="ad--"]
