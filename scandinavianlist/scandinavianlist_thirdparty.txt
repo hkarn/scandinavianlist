@@ -11,3 +11,4 @@
 ||custosgroup.com^$subdocument,third-party
 ||cdn2.lystra.se/pages/*/BIO*$subdocument,xmlhttprequest,third-party
 ||webbannons.ntm.eu^$subdocument,third-party
+||finn.no/distribution-carousel$subdocument,third-party
