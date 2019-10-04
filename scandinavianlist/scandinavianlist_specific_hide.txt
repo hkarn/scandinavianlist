@@ -102,7 +102,7 @@ sn.se##[id^="lystra_"]
 budstikka.no##.lokalnative
 trd.by##.polarisMarketing
 gaysir.no##.ad_wrapper_content
-f-b.no,budstikka.no,tb.no,h-avis.no,rb.no,nordlys.no,dt.no,ba.no,an.no##bazaar-ad
+gd.no,f-b.no,budstikka.no,tb.no,h-avis.no,rb.no,nordlys.no,dt.no,ba.no,an.no##bazaar-ad
 filmweb.no##.topad
 filmweb.no##.mpu
 tu.no##div[class*="top-poster-wrap"]
