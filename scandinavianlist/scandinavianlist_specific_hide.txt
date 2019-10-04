@@ -99,6 +99,7 @@ nvp.se##.banner_header + *
 lantbruksnet.se###topreklam
 lantbruksnet.se###banner_right
 sn.se##[id^="lystra_"]
+gaysir.no##.ad_wrapper_content
 tb.no,h-avis.no,rb.no,nordlys.no,dt.no,ba.no,an.no##bazaar-ad
 filmweb.no##.topad
 filmweb.no##.mpu
