@@ -1,5 +1,6 @@
 ||uptobranding.com^$third-party
 ||hmads.se^$third-party
 ||delivery.adten.eu^$xmlhttprequest,third-party
+||track.adform.net^$subdocument,third-party
 ||gratisxxx.no^$third-party
 ||adrecord.com^$third-party

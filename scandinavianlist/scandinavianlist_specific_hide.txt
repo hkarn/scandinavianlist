@@ -99,10 +99,10 @@ nvp.se##.banner_header + *
 lantbruksnet.se###topreklam
 lantbruksnet.se###banner_right
 sn.se##[id^="lystra_"]
-f-b.no##bazaar-ad
+budstikka.no##.lokalnative
 trd.by##.polarisMarketing
 gaysir.no##.ad_wrapper_content
-tb.no,h-avis.no,rb.no,nordlys.no,dt.no,ba.no,an.no##bazaar-ad
+f-b.no,budstikka.no,tb.no,h-avis.no,rb.no,nordlys.no,dt.no,ba.no,an.no##bazaar-ad
 filmweb.no##.topad
 filmweb.no##.mpu
 tu.no##div[class*="top-poster-wrap"]
