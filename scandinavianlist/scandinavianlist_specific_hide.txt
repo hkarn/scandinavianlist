@@ -99,9 +99,9 @@ nvp.se##.banner_header + *
 lantbruksnet.se###topreklam
 lantbruksnet.se###banner_right
 sn.se##[id^="lystra_"]
+rb.no,nordlys.no,dt.no,ba.no,an.no##bazaar-ad
 filmweb.no##.topad
 filmweb.no##.mpu
-nordlys.no,dt.no,ba.no,an.no##bazaar-ad
 tu.no##div[class*="top-poster-wrap"]
 e24.no##.finn-carousel
 adressa.no##.polarisMarketing
