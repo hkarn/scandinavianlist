@@ -2,3 +2,4 @@
 ||hmads.se^$third-party
 ||delivery.adten.eu^$xmlhttprequest,third-party
 ||gratisxxx.no^$third-party
+||adrecord.com^$third-party
