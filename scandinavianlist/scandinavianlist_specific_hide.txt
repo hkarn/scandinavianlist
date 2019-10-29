@@ -98,4 +98,6 @@ lantbruksnet.se###topreklam
 lantbruksnet.se###banner_right
 sn.se##[id^="lystra_"]
 united.no##div[class^="ann-forside"]
+united.no##div[class^="ann-forside"] + *
 united.no##div[id^="ann_forside"]
+united.no##.banner-top
