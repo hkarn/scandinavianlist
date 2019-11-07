@@ -15,3 +15,4 @@
 ||ekuriren.se/*/?file=bostadsnurra^$subdocument
 ||cdn.pji.nu/g/misc/partners/blocketjobb.gif^$domain=minhembio.com
 ||brandstudio.inventory.schibsted.io^$subdocument,third-party
+||widget.tippebannere.no^$subdocument,domain=united.no

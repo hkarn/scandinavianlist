@@ -100,6 +100,12 @@ lantbruksnet.se###topreklam
 lantbruksnet.se###banner_right
 sn.se##[id^="lystra_"]
 fvn.no##.brandboard-container
+united.no##div[class^="ann-forside"]
+united.no##div[class^="ann-forside"] + *
+united.no##div[id^="ann_forside"]
+united.no##.banner-top
+sol.no##[type="advertisement"]
+sol.no##[class^="AdWrapper"]
 budstikka.no##.lokalnative
 trd.by##.polarisMarketing
 gaysir.no##.ad_wrapper_content
