@@ -99,6 +99,8 @@ nvp.se##.banner_header + *
 lantbruksnet.se###topreklam
 lantbruksnet.se###banner_right
 sn.se##[id^="lystra_"]
+sol.no##[type="advertisement"]
+sol.no##[class^="AdWrapper"]
 budstikka.no##.lokalnative
 trd.by##.polarisMarketing
 gaysir.no##.ad_wrapper_content
