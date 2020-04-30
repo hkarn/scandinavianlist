@@ -120,3 +120,4 @@ kk.no##[class^="FullscreenAd"]
 at.no##div[class*="ad--"]
 byas.no##[id^="adPlacement"]
 rbnett.no,trd.by,adressa.no##.polarisMarketing
+agderposten.no##div[data-adtext="Annonse"]
