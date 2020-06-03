@@ -119,6 +119,6 @@ kk.no,sol.no##[class^="AdWrapper"]
 kk.no##[class^="FullscreenAd"]
 at.no##div[class*="ad--"]
 730.no##[class^="g-single a-"]
-byas.no##[id^="adPlacement"]
+byas.no,e24.no##[id^="adPlacement"]
 rbnett.no,trd.by,adressa.no##.polarisMarketing
 e24.no##[id^="ad-"]
