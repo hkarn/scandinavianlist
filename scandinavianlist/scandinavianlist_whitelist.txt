@@ -1,2 +1,2 @@
-@@||cdn.easy-ads.com/js/swipemod.js^$script,domain=oa.no|rb.no|ta.no|sb.no
-@@||easy-ads.com/subscriber^$image,domain=oa.no|rb.no|ta.no|sb.no
+@@||cdn.easy-ads.com/js/swipemod.js^$script,domain=oa.no|rb.no|ta.no|sb.no|laagendalsposten.no
+@@||easy-ads.com/subscriber^$image,domain=oa.no|rb.no|ta.no|sb.no|laagendalsposten.no
