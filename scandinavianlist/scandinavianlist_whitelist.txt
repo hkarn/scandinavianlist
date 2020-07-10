@@ -1,3 +1,3 @@
-@@||cdn.easy-ads.com/js/swipemod.js^$script,domain=oa.no|rb.no|ta.no|sb.no|ostlendingen.no|ha-halden.no|ringblad.no|lofotposten.no|firda.no|helg.no
-@@||easy-ads.com/subscriber^$image,domain=oa.no|rb.no|ta.no|sb.no|ostlendingen.no|ha-halden.no|ringblad.no|lofotposten.no|firda.no|helg.no
+@@||cdn.easy-ads.com/js/swipemod.js^$script,domain=oa.no|rb.no|ta.no|sb.no|ostlendingen.no|ha-halden.no|ringblad.no|lofotposten.no|firda.no|helg.no|smaalenene.no
+@@||easy-ads.com/subscriber^$image,domain=oa.no|rb.no|ta.no|sb.no|ostlendingen.no|ha-halden.no|ringblad.no|lofotposten.no|firda.no|helg.no|smaalenene.no
 @@||stillingledig.*.no/jobs/api/ads^$xmlhttprequest
