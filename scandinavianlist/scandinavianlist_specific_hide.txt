@@ -117,10 +117,10 @@ nettavisen.no##.bazaar-grid
 at.no##div[class*="ad--"]
 kk.no,sol.no##[class^="AdWrapper"]
 kk.no##[class^="FullscreenAd"]
-at.no##div[class*="ad--"]
 730.no##[class^="g-single a-"]
 byas.no##[id^="adPlacement"]
 rbnett.no,trd.by,adressa.no##.polarisMarketing
 purehelp.no###monetary_block_1
 purehelp.no###clientLinkArea3
 purehelp.no##.dfptop
+agderposten.no##div[data-adtext="Annonse"]
