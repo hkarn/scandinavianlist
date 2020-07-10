@@ -121,3 +121,4 @@ at.no##div[class*="ad--"]
 730.no##[class^="g-single a-"]
 byas.no##[id^="adPlacement"]
 rbnett.no,trd.by,adressa.no##.polarisMarketing
+agderposten.no##div[data-adtext="Annonse"]
