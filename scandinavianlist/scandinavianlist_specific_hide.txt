@@ -124,3 +124,4 @@ purehelp.no###monetary_block_1
 purehelp.no###clientLinkArea3
 purehelp.no##.dfptop
 agderposten.no##div[data-adtext="Annonse"]
+dba.dk##.marketing-container
