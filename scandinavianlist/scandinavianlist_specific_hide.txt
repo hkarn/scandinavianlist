@@ -121,7 +121,13 @@ kk.no##[class^="FullscreenAd"]
 byas.no,e24.no##[id^="adPlacement"]
 rbnett.no,trd.by,adressa.no##.polarisMarketing
 e24.no##[id^="ad-"]
+terrengsykkel.no###wallpaperCenterAd
 purehelp.no###monetary_block_1
 purehelp.no###clientLinkArea3
 purehelp.no##.dfptop
 agderposten.no##div[data-adtext="Annonse"]
+dba.dk##.marketing-container
+flashscore.dk##[id^="box_over_content"]
+flashscore.dk##.container__bannerZone
+jyllands-posten.dk###jks__banner
+jyllands-posten.dk##[id^="Monster_"]
