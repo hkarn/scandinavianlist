@@ -120,8 +120,8 @@ kk.no##[class^="FullscreenAd"]
 730.no##[class^="g-single a-"]
 byas.no##[id^="adPlacement"]
 rbnett.no,trd.by,adressa.no##.polarisMarketing
-ifinnmark.no##.optimus-complex-front
 purehelp.no###monetary_block_1
 purehelp.no###clientLinkArea3
 purehelp.no##.dfptop
 agderposten.no##div[data-adtext="Annonse"]
+ifinnmark.no##.sponsored
