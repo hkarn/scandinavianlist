@@ -126,3 +126,5 @@ purehelp.no##.dfptop
 agderposten.no##div[data-adtext="Annonse"]
 flashscore.dk##[id^="box_over_content"]
 flashscore.dk##.container__bannerZone
+jyllands-posten.dk###jks__banner
+jyllands-posten.dk##[id^="Monster_"]
